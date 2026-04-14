@@ -32,7 +32,7 @@
 		"bcryptjs": "^3.0.3",
 		"cross-env": "^10.1.0",
 		"dotenv": "^17.4.1",
-		"firebase-admin": "^11.10.1",
+		"firebase-admin": "^13.8.0",
 		"js-beautify": "^1.15.4",
 		"js-levenshtein": "^1.1.6",
 		"loops": "^6.2.1",
